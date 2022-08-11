@@ -7,4 +7,6 @@ const port = process.env.PORT || 8800; // <== You can change the port
 server.use(middlewares);
 server.use(router);
 
-server.listen(port);
+server.listen(port,()=>{
+    console.log("json running at http://localhost:8800/");
+});
