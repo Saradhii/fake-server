@@ -1,28 +1,8 @@
 {
     "users": [
-      {
-        "Country": "India",
-        "City": "rajahmundry",
-        "Population": "12299",
-        "id": 1
-      },
-      {
-        "Country": "China",
-        "City": "beijing",
-        "Population": "98888",
-        "id": 2
-      },
-      {
-        "Country": "Pakistan",
-        "City": "ahmadabad",
-        "Population": "898989",
-        "id": 3
-      },
-      {
-        "Country": "Srilanka",
-        "City": "veli",
-        "Population": "9900",
-        "id": 4
-      }
+      
+    ],
+    "messages":[
+      
     ]
   }
